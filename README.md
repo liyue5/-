@@ -39,8 +39,7 @@ print("信息素养")
 ### 2.
 
 |信息素养|学号|占比|
-||||
-||
+
 
 [信息](http://yingxin.hebtu.edu.cn/index.html)
 
